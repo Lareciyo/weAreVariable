@@ -1,7 +1,17 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-
+var myFirstName = "Lareciyo";
+var myLastName = "McNeal";
+var myFavoriteCeleb = "Denzel Washington"
+var mySentence = "Denzel Washington inspires, motivates, and empowers Lareciyo McNeal";
+var myLuckyNum = 1977;
+var myAge = 47;
+var myHeight = 67;
+var myFavoriteYear = 2027;
+var mySum = 5 + 2317 + 36;
+myProduct = 232 * 43 / 2 + 4;
+myHeightAndAge = 47 + 67;  
 
 /*********************************************************************************************************************
 
